@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in the Department of Statistics at the [Pennsylvania State University](https://www.psu.edu). Previously, I obtained my B.S. in Statistics from the [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2024.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
+- **Traditional Statistics:** high dimensional statistics, causal inference, network analysis.
+- **Machine Learning:** meta-learning, representation learning, transfer learning, reinforcement learning, large language model.
+<div style="display:none">
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
@@ -21,3 +21,5 @@ I am a Ph.D. student at ...
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+</div>
+
